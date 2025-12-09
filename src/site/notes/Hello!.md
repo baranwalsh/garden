@@ -15,4 +15,4 @@ I hope these help anyone else as well.
 Regards,
 Shagun
 
-PS: If you want to contact me, my email is baranwalsh@proton.me.
+PS: If you want to contact me, my email is baranwalsh@proton.me!
