@@ -10,8 +10,3 @@ HLs
 SLs
 - [[SL/Spanish B/Spanish B\|Spanish B]]
 - [[SL/Literature/Literature\|Literature]]
----
-```
-dg-publish: true
-dg-home: true
-```
