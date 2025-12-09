@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ib-notes-by-shagun/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/ib-notes-by-shagun/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
 HLs

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sl/literature/genre-literary-devices/"}
+{"dg-publish":true,"permalink":"/sl/literature/genre-literary-devices/","noteIcon":""}
 ---
 
 - Important to consider the genre of the text
