@@ -9,7 +9,7 @@
 ***Grade***: 5
 ### **Areas for Improvement:**
 - **Focus more on the specific extract** rather than the play as a whole 
-- **Analyze literary devices** used within the extract in detail
+- **Analyse literary devices** used within the extract in detail
 - **Directly answer the question** using evidence from the extract
 - **Maintain a sharp focus** on the given passage and prompt
 ### **Strengths to Maintain:**
