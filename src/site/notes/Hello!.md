@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello/"}
+{"dg-publish":true,"permalink":"/hello/","tags":["gardenEntry"]}
 ---
 
 I'm Shagun, an IB student in Sweden. I'm sharing my notes to the world as I take
