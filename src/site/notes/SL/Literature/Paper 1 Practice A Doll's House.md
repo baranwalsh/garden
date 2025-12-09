@@ -23,3 +23,5 @@
 - Develop **extract-focused responses** before linking to broader context
 - Use **more textual evidence** from the given passage to support points
 - Ensure **every paragraph** directly addresses the question asked
+
+[[Paper 1 rubric.pdf]]
