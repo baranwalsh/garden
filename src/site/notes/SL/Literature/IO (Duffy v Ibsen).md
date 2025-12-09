@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sl/literature/io-duffy-v-ibsen/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sl/literature/io-duffy-v-ibsen/"}
 ---
 
 **Global issue**: Assertion of female identity and agency in patriarchal systems of control

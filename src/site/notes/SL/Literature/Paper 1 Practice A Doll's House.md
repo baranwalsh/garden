@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sl/literature/paper-1-practice-a-doll-s-house/","noteIcon":""}
+{"dg-publish":true,"permalink":"/sl/literature/paper-1-practice-a-doll-s-house/"}
 ---
 
 ***Task***: A Doll's House by Ibsen, paper 1 in 1 hour 15 minutes

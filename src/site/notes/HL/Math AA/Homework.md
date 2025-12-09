@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hl/math-aa/homework/","noteIcon":""}
+{"dg-publish":true,"permalink":"/hl/math-aa/homework/"}
 ---
 
 # 2025-12-08
