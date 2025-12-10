@@ -1,0 +1,2 @@
+- [ ] Winter break starts 🛫 2025-12-22 📅 2025-12-22
+- [ ] Report cards out 🛫 2025-12-18 📅 2025-12-18
